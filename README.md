@@ -4,13 +4,20 @@ This program simulates the basic functionality of a vehicle using a RaspberryPi 
 ## 1. Running the program
 
 ### 1.1 Prerequisites
-1. RaspberryPi
-2. Ultrasonic Sensor
-3. LDR sensor
-4. DC motor
-5. Servo motor
-6. RGB leds
-7. Protoboard
+
+- RaspberryPi
+
+- Ultrasonic Sensor
+   
+- LDR sensor
+   
+- DC motor
+   
+- Servo motor
+
+- RGB leds
+
+- Protoboard
    
 ### 1.2 HARDWARE configuration
 Connect the components as in the following image:
