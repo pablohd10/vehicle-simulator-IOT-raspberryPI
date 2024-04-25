@@ -19,7 +19,7 @@ Connect the components as in the following image:
 
 Establish the digital/PWM pins as specified in the code (or configurate them as desired)
 
-### SOFTWARE configuration
+### 1.3 SOFTWARE configuration
 - [ ] Clone the repository.
 - [ ] Connect your device to the raspberryPI.
 > [!TIP]
