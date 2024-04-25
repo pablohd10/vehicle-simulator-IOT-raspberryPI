@@ -20,11 +20,13 @@ Connect the components as in the following image:
 Establish the digital/PWM pins as specified in the code (or configurate them as desired)
 
 ### 1.3 SOFTWARE configuration
-- [ ] Clone the repository.
-- [ ] Connect your device to the raspberryPI.
+- Clone the repository.
+- Connect your device to the raspberryPI.
+  
 > [!TIP]
-> Connect the rapberry to the device via ssh. Remember that they must be in the same network.
-- [ ] Run the file vehicle.py in the raspberryPI. To do this you have 2 options:
+> Connect the raspberry to the device via ssh. Remember that they must be in the same network.
+
+- Run the file vehicle.py in the raspberryPI. To do this you have 2 options:
   - Upload the code to the raspberry and execute it
   - Create a remote interpreter in Pycharm and execute the code through this interpreter
 
