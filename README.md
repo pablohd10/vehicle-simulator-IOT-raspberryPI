@@ -1,8 +1,9 @@
 # vehicle_simulator_IOT_raspberryPI
 This program simulates the basic functionality of a vehicle using a RaspberryPi and hardware components such us an ultrasonic sensor, LDR sensor, DC motor, servo motor and RGB leds. 
 
-## Running the program
-### Prerequisites
+## 1. Running the program
+
+### 1.1 Prerequisites
 1. RaspberryPi
 2. Ultrasonic Sensor
 3. LDR sensor
@@ -10,7 +11,8 @@ This program simulates the basic functionality of a vehicle using a RaspberryPi 
 5. Servo motor
 6. RGB leds
 7. Protoboard
-### HARDWARE configuration
+   
+### 1.2 HARDWARE configuration
 Connect the components as in the following image:
 
 <img width="763" alt="Hardware configuration SCHEME" src="https://github.com/pablohd10/vehicle_simulator_IOT_raspberryPI/assets/98902991/85139910-5617-4ca6-ab39-a54563038ddf">
